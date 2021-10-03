@@ -36,7 +36,10 @@
              </div>  
               <div id="age"></div>  
              </form>  
-            </div>  
+            </div>            
+            <div class="footer">
+                &copy; 2021 - Created by  <a href="https://karamlyy.github.io/profile/" target="_blank" style="color: blue;">Karam Afandi</a>
+              </div>
             </body>  
         <script src="script.js"  type="text/Javascript"></script> 
     </body>
